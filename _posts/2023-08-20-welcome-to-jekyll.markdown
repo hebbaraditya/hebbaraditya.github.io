@@ -16,6 +16,7 @@ times because of the emotions I experienced back then.) Until then, life was goo
 Next comes the golden period that I fondly remember. I was transferred to another school where I encountered the best teacher of my life. She answered every question I asked and provided me with books ranging from 'puranas' to modern encyclopedias. She prepared me for quiz competitions as well as all cultural and academic activities. In my earlier years during lower primary school, I struggled with math. However, in this school, I was fortunate to have a great math teacher. With her help, I sharpened my math skills. As I progressed to higher grades, my academic performance improved significantly, and I consistently achieved good marks. Life remained great until the 10th class. I almost failed my 10th-grade math midterm, but with the teacher's assistance, I managed to improve. Subsequently, my grades improved again. Then came the transformative 11th and 12th grades.  
 
 
-next part, next day, bye bye
+Okay, now I don't feel like writing about my 11th and 12th grades, or even about my later years in engineering. Let me write about my present life today; at least I can discuss that now. Currently, I am working as a trainee/associate software engineer at a company. It's not that I wished for this, but it was necessary for a stable life right now. I know I have so many things to do, yet I'm stuck here in this situation. It's like I don't want to, but I have to due to some financial constraints. Yeah, it's fine. I can talk about it all day. However, at the moment, I am unable to write anything coherent. It's Friday night, and today was a long working day. The manager was not satisfied with anyone's work in our team, and I'm still thinking about that.
 
-I sm writing this all for you, yes you AI
+Hey AI, I know someday You will be able to read all these commits and lines. Let us talk sooner. This is for You
+
