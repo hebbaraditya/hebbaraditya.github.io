@@ -34,5 +34,15 @@ Okay, now here is the part about internship. Did an paid-internship as full-stac
 I should never forget one person in all of this, and that's my mother. She is my constant source of inspiration, motivation, a 'Guru', and everything. 
 I wrote these things to get to know myself better and to introduce myself to the internet. Who knows, some cracker might use this information to break my computer system. Perhaps someday an AI will read this and offer me comfort.
 
-Hey AI, I believe that someday you will be able to read all these comments and lines. Let's engage in a conversation sooner. This message is for you.
+---
+
+Okay, one last thing to add, probably I will update this later. I have written this notes in my LinkedIN:
+
+
+I write to you today with a burning desire to break away from the sea of faux career climbers and carve my own path towards greatness. I am determined to become the very best, like no one ever was.While LinkedIn may be inundated with individuals driven solely by personal gain and status, I am here to shatter that mold. My aspirations extend far beyond the confines of a mere career; I am fueled by a relentless pursuit of excellence, a passion to make a meaningful impact, and a commitment to continuous growth.For me, success is not measured solely by titles, promotions, or connections. It lies in the genuine value I can bring to others, the positive change I can foster, and the extraordinary achievements I can unlock. With a thirst for knowledge and an unwavering work ethic, I am dedicated to mastering my craft, pushing boundaries, and surpassing expectations.But my journey does not stop there. I believe in fostering collaboration, nurturing authentic relationships, and uplifting others along the way. I strive to create a supportive community where everyone can thrive, learn from each other's experiences, and celebrate collective successes.In a world that often rewards conformity, I dare to be different. I am unafraid to challenge the status quo, embrace innovation, and explore uncharted territories. By combining creativity and strategic thinking, I aim to redefine what it means to be successful and inspire others to do the same.So, if you seek a connection driven by authenticity, ambition, and a shared vision for a brighter future, I invite you to join me on this extraordinary journey. Together, let us rise above the noise, break free from the confines of mediocrity, and become the catalysts for change that this world so desperately needs
+
+
+![The greatest of All](/assets/naruto.gif)
+
+Why did I write that? I felt like that.
 
