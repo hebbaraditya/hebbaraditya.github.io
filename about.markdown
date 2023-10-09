@@ -4,15 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I'm determined to break free from the conventional career pursuit and forge my unique path to greatness. My unwavering commitment to personal growth and making a meaningful impact drives me. Success, to me, is about genuine value and positive change, not titles or status. I'm dedicated to mastering my craft, fostering collaboration, and challenging the status quo. If you share my commitment to authenticity and a brighter future, join me in breaking free from mediocrity to become catalysts for change.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+---
+[My techblog](https://hebbaraditya.hashnode.dev/)
