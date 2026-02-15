@@ -1,7 +1,7 @@
 ---
 layout: page
-title: .plan
-permalink: /plan/
+title: log
+permalink: /log/
 ---
 
 raw notes and daily updates.
