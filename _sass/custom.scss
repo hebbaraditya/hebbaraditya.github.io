@@ -1,0 +1,169 @@
+// Typography hierarchy using JetBrains Mono
+// This will automatically style all content
+
+// Headers - larger, darker, bold (more specific selectors)
+.page-content h1, .post-content h1, h1.post-title {
+  font-family: "JetBrains Mono", monospace !important;
+  font-size: 21px !important;
+  font-weight: 700 !important;
+  color: #000000 !important;
+  line-height: 1.3 !important;
+  margin-bottom: 8px !important;
+}
+
+.page-content h2, .post-content h2, h2 {
+  font-family: "JetBrains Mono", monospace !important;
+  font-size: 16px !important;
+  font-weight: 700 !important;
+  color: #000000 !important;
+  line-height: 1.3 !important;
+  margin-bottom: 6px !important;
+}
+
+.page-content h3, .post-content h3, h3 {
+  font-family: "JetBrains Mono", monospace !important;
+  font-size: 15px !important;
+  font-weight: 700 !important;
+  color: #000000 !important;
+  line-height: 1.3 !important;
+  margin-bottom: 4px !important;
+}
+
+// Body text - regular weight, medium gray
+p {
+  font-family: "JetBrains Mono", monospace;
+  font-size: 14px;
+  font-weight: 400;
+  color: #383838;
+  line-height: 1.725;
+  margin-bottom: 16px;
+}
+
+// Meta information - lighter gray, smaller
+.post-meta, .meta {
+  font-family: "JetBrains Mono", monospace;
+  font-size: 12px;
+  font-weight: 400;
+  color: #666666;
+}
+
+// Links - blue color
+a {
+  color: #0066cc;
+  text-decoration: none;
+  
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+// Code blocks - same font but different background
+pre, code {
+  font-family: "JetBrains Mono", monospace;
+  background-color: #f5f5f5;
+  border-radius: 3px;
+}
+
+code {
+  padding: 2px 4px;
+  font-size: 13px;
+}
+
+pre {
+  padding: 12px;
+  font-size: 13px;
+  overflow-x: auto;
+}
+
+// Lists
+ul, ol {
+  font-family: "JetBrains Mono", monospace;
+  font-size: 14px;
+  color: #383838;
+}
+
+// Blockquotes
+blockquote {
+  font-family: "JetBrains Mono", monospace;
+  font-size: 14px;
+  color: #555555;
+  border-left: 3px solid #cccccc;
+  padding-left: 16px;
+  margin: 16px 0;
+}
+
+// Homepage post titles - smaller size
+.home .post-link {
+  font-size: 16px !important;
+  font-weight: 700 !important;
+}
+
+// Homepage post list spacing
+.home .post-list > li {
+  margin-bottom: 20px !important;
+}
+
+// More space after "Posts" heading
+.home h2.post-list-heading {
+  font-size: 18px !important;
+  margin-bottom: 18px !important;
+  text-transform: lowercase !important;
+}
+
+// Hide the RSS subscription text
+.rss-subscribe {
+  display: none !important;
+}
+
+
+
+// code block
+pre.highlight {
+  background-color: #f6f8fa !important;
+  border: 1px solid #d1d9e0 !important;
+  border-radius: 6px !important;
+  padding: 16px !important;
+  margin: 16px 0 !important;
+  overflow-x: auto !important;
+}
+
+.highlight code {
+  background-color: transparent !important;
+  color: #24292f !important;
+  padding: 0 !important;
+  font-size: 13px !important;
+}
+
+// GitHub syntax highlighting colors
+.highlight .k { color: #cf222e; } // keywords
+.highlight .s, .highlight .s1, .highlight .s2 { color: #0a3069; } // strings
+.highlight .nf { color: #8250df; } // functions
+.highlight .c, .highlight .c1 { color: #656d76; } // comments
+.highlight .o { color: #24292f; } // operators
+.highlight .nx { color: #0550ae; } // variables
+.highlight .mi { color: #0550ae; } // numbers
+
+
+// Header alignment and styling fixes
+.site-header .wrapper {
+  display: flex !important;
+  justify-content: space-between !important;
+  align-items: center !important;
+}
+
+.site-title {
+  font-weight: 700 !important;
+  color: #000000 !important;
+  font-size: 21px !important;
+}
+
+.header-social {
+  display: flex !important;
+  gap: 20px !important;
+  align-items: center !important;
+  margin-left: auto !important;
+}
+
+.header-social svg {
+  vertical-align: middle !important;
+}
