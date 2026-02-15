@@ -4,7 +4,14 @@ title: About
 permalink: /about/
 ---
 
-I'm determined to break free from the conventional career pursuit and forge my unique path to greatness. My unwavering commitment to personal growth and making a meaningful impact drives me. Success, to me, is about genuine value and positive change, not titles or status. I'm dedicated to mastering my craft, fostering collaboration, and challenging the status quo. If you share my commitment to authenticity and a brighter future, join me in breaking free from mediocrity to become catalysts for change.
+I build AI systems in production. Currently working with multi-agent architectures, RAG pipelines, and LLM orchestration.
+
+I learn from first principles. When I study something, I implement it from scratch. Read the paper, write the code, understand why it works. No frameworks until I've built it myself.
+
+This approach takes longer but creates deeper understanding. The goal isn't to ship fast—it's to actually know what I'm building.
+
+I write about what I learn. Technical posts on implementation details, architecture decisions, and lessons from production systems. If I can't explain it clearly, I don't understand it well enough.
 
 ---
-[My techblog](https://hebbaraditya.hashnode.dev/)
+
+Previously: [hashnode.dev/hebbaraditya](https://hebbaraditya.hashnode.dev/)
