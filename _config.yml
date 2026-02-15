@@ -21,12 +21,11 @@
 title: Aditya Hebbar
 email: adityanhebbar@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
- Discover my unconventional and captivating ideas that I'm passionate about discussing, even when they're in their early stages or not thoroughly researched!
+  Building AI systems. First principles learner.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://hebbaraditya.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: hebbar_aditya
-github_username:  hebbaraditya
-
+github_username: hebbaraditya
 
 # Build settings
 theme: minima
